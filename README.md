@@ -23,3 +23,6 @@ The Application includes In-App Purchases that allow you to buy coins.
 ### Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 *   By email: onuromersahin@gmail.com
+
+
+For data deletion requests, please contact: [onuromersahin@gmail.com]
